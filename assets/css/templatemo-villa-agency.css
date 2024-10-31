@@ -2094,3 +2094,9 @@ body {
         padding: 18px;
     }
 }
+@media (max-width: 360px){
+
+    .properties .item{
+        padding: 15px;
+    }
+}
