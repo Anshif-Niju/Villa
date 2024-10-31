@@ -1973,6 +1973,10 @@ body {
 .foot {
     z-index: 1000;
 }
+.h1{
+    width: 100vw;
+}
+
 
 @media (max-width: 1200px) {
     .media {
@@ -2076,16 +2080,19 @@ body {
         justify-content: center;
         align-items: center;
     }
-    .h1 h1 span{
-        font-size: 26px;
-    }
+  
 }
-@media (max-width: 400px){
+@media (max-width: 410px){
 
-        .properties .item{
-            padding: 25px;
+       .hc{
+        display: flex;
+        align-items: center;
+       }
+        .hc .hh{
+        width: 70%;
         }
-        .h1 h1 span{
-            font-size: 25px;
+        .hc .hhh{
+        width: 30%;
         }
+
 }
