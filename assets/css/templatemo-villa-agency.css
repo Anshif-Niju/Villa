@@ -2080,19 +2080,14 @@ body {
         justify-content: center;
         align-items: center;
     }
+    .header-area .main-nav .logo h1{
+        font-size: 25px;
+    }
   
 }
-@media (max-width: 410px){
+/* @media (max-width: 450px){
 
-       .hc{
-        display: flex;
-        align-items: center;
-       }
-        .hc .hh{
-        width: 70%;
-        }
-        .hc .hhh{
-        width: 30%;
-        }
-
-}
+    .hh h1{ 
+     width: 100px;
+    }
+} */
