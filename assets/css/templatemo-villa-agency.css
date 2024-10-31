@@ -2085,9 +2085,9 @@ body {
     }
   
 }
-/* @media (max-width: 450px){
+@media (max-width: 360px){
 
-    .hh h1{ 
-     width: 100px;
+    .properties .item{
+        padding: 15px;
     }
-} */
+}
