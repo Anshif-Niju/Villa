@@ -2076,21 +2076,16 @@ body {
         justify-content: center;
         align-items: center;
     }
+    .h1 h1 span{
+        font-size: 26px;
+    }
 }
-@media (max-width: 500px){
-    .h1 span:nth-child(1){
-        font-size: 26px;
-        margin-left: -37px;
-    }
-    .h1 span:nth-child(2){
-        font-size: 26px;
-        margin-left: -49px;
-    }
-    .h1 span:nth-child(3){
-        font-size: 26px;
-        margin-left: -58px;
-    }
-    .header-area .main-nav .menu-trigger{
-        margin-right: -50px;
-    }
+@media (max-width: 400px){
+
+        .properties .item{
+            padding: 28px;
+        }
+        .h1 h1 span{
+            font-size: 25px;
+        }
 }
