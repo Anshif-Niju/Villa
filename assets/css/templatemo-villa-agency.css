@@ -2085,9 +2085,9 @@ body {
     }
   
 }
-@media (max-width: 360px){
+@media (max-width: 400px){
 
     .properties .item{
-        padding: 15px;
+        padding: 18px;
     }
 }
