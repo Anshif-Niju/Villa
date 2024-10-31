@@ -1976,6 +1976,9 @@ body {
 .h1{
     width: 100vw;
 }
+.properties .item{
+    padding: 18px;
+}
 
 
 @media (max-width: 1200px) {
